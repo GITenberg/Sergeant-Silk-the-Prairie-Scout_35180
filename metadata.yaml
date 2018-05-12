@@ -1,0 +1,27 @@
+_repo: Sergeant-Silk-the-Prairie-Scout_35180
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35180-h/images/000_cover.png
+creator:
+  author:
+    agent_name: Leighton, Robert
+    birthdate: 1859
+    deathdate: 1934
+    gutenberg_agent_id: '3054'
+    url: http://www.gutenberg.org/2009/agents/3054
+description: ''
+gutenberg_issued: '2011-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35180'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Canada -- Juvenile fiction'
+- !lcsh 'North West Mounted Police (Canada) -- Juvenile fiction'
+title: Sergeant Silk, the Prairie Scout
+url: http://www.gutenberg.org/ebooks/35180
